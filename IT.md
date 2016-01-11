@@ -13,10 +13,10 @@
 
 ## House Number
 
-* Houses have House numbers.
+* Numbers are assigned to house entrances
+* called "Numero civico"
 * Usually house numbers alternate side of the road: even numbers on one side,
   odd numbers on the other side, both increasing in the same direction
-* called "Numero civico"
 
 ## Street Names
 
@@ -41,4 +41,10 @@
 
 ### Example
 
-…
+```
+Federica Fiora
+Banca della Imaginazione
+Via Mantova 94
+20099 Sesto San Giovanni MI
+ITALIA
+```

@@ -33,4 +33,10 @@
 
 ### Example
 
-…
+```
+Pierre Rousseau
+Pharmacie verde
+44 Route du Salève
+01280 Prévessin-Moëns
+France
+```
