@@ -10,6 +10,7 @@
 * numerical
 * no spaces
 * called "Postleitzahl", abbreviated "PLZ"
+* may contain leading zero
 
 ## House Number
 
