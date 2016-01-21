@@ -19,6 +19,7 @@
 * Usually house numbers alternate side of the road: even numbers on one side,
   odd numbers on the other side, both increasing in the same direction
 * called "Hausnummer"
+* Houses may have multiple House numbers
 
 ## Street Names
 
