@@ -6,19 +6,19 @@
 
 ## Postal Codes
 
+* called "Postleitzahl", abbreviated "PLZ"
 * 5 digit
 * numerical
 * no spaces
-* called "Postleitzahl", abbreviated "PLZ"
 * may contain leading zero
 
 ## House Number
 
+* called "Hausnummer"
 * Houses have House numbers.
 * After the Number there might be additional letters.
 * Usually house numbers alternate side of the road: even numbers on one side,
   odd numbers on the other side, both increasing in the same direction
-* called "Hausnummer"
 * Houses may have multiple House numbers
 
 ## Street Names

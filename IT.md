@@ -6,15 +6,15 @@
 
 ## Postal Codes
 
+* called "CAP"
 * 5 digit
 * numerical
 * no spaces
-* called "CAP"
 
 ## House Number
 
-* Numbers are assigned to house entrances
 * called "Numero civico"
+* Numbers are assigned to house entrances
 * Usually house numbers alternate side of the road: even numbers on one side,
   odd numbers on the other side, both increasing in the same direction
 
