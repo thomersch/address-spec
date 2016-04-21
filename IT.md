@@ -22,6 +22,7 @@
 
 * Usually consists of several words.
 * Often begin with "via" or "viale".
+* When named after a person, the first name can be abbreviated or left out
 * …
 
 ## Province
@@ -47,4 +48,22 @@ Banca della Imaginazione
 Via Mantova 94
 20099 Sesto San Giovanni MI
 ITALIA
+```
+
+```
+Giovanni Grillo
+Viale Armando Diaz 37
+09125 Cagliari (CA) 
+```
+
+```
+Giovanni Grillo
+Viale A. Diaz 37
+09125 Cagliari (CA) 
+```
+
+```
+Giovanni Grillo
+Viale Diaz 37
+09125 Cagliari (CA) 
 ```
